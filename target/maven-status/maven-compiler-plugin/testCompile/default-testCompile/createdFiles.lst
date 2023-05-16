@@ -1,0 +1,7 @@
+com\nopcommerce\sw6\Hooks.class
+com\nopcommerce\sw6\runner\RegressionRunner.class
+com\nopcommerce\sw6\steps\TopMenuStep.class
+com\nopcommerce\sw6\steps\ComputerStep.class
+com\nopcommerce\sw6\runner\SanityRunner.class
+com\nopcommerce\sw6\runner\SmokeRunner.class
+com\nopcommerce\sw6\steps\ElectronicsStep.class

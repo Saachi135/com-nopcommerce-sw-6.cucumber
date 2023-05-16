@@ -1,0 +1,14 @@
+com\nopcommerce\sw6\utility\Utility$1.class
+com\nopcommerce\sw6\pages\CellPhonesPage.class
+com\nopcommerce\sw6\pages\NokiaLumiaPage.class
+com\nopcommerce\sw6\pages\ShoppingCartPage.class
+com\nopcommerce\sw6\pages\CheckOurPage.class
+com\nopcommerce\sw6\pages\SignInPage.class
+com\nopcommerce\sw6\propertyreader\PropertyReader.class
+com\nopcommerce\sw6\browserfactory\ManageBrowser.class
+com\nopcommerce\sw6\pages\HomePage.class
+com\nopcommerce\sw6\utility\Utility.class
+com\nopcommerce\sw6\pages\BuildYourOwnComputerPage.class
+com\nopcommerce\sw6\pages\RegisterPage.class
+com\nopcommerce\sw6\pages\ComputerPage.class
+com\nopcommerce\sw6\pages\DesktopPage.class
